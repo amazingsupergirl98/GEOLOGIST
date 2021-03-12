@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-msedge",
+            "name": "https://PROJECT24",
+            "request": "launch",
+            "url": "https://PROJECT24"
+        }
+    ]
+}
